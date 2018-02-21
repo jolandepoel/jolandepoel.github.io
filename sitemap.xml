@@ -5,6 +5,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/post/ds-specialist/</loc>
       <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     </url>
@@ -42,6 +43,9 @@
     <url>
     
       <loc>http://jolandepoel.github.io/publication/</loc>
+=======
+      <loc>/publication/</loc>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,6 +72,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -87,6 +92,9 @@
     <url>
     
       <loc>http://jolandepoel.github.io/post/getting-started/</loc>
+=======
+      <loc>/post/getting-started/</loc>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
     
@@ -142,6 +150,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -193,6 +202,10 @@
     
       <loc>http://jolandepoel.github.io/categories/intro/</loc>
       <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <priority>0</priority>
     </url>
     
@@ -201,8 +214,12 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/categories/itvitae/</loc>
       <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+=======
+      <loc>/categories/</loc>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <priority>0</priority>
     </url>
     
@@ -211,8 +228,13 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/</loc>
       <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+=======
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <priority>0</priority>
     </url>
     
@@ -221,8 +243,13 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/tags/plot/</loc>
       <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <priority>0</priority>
     </url>
     
@@ -231,8 +258,13 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+=======
+      <loc>/post/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <priority>0</priority>
     </url>
     
@@ -251,6 +283,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/tags/r/</loc>
       <lastmod>2017-06-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -262,6 +295,9 @@
     <url>
     
       <loc>http://jolandepoel.github.io/categories/r/</loc>
+=======
+      <loc>/categories/r/</loc>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -271,8 +307,13 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/tags/r-markdown/</loc>
       <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/r-markdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <priority>0</priority>
     </url>
     
@@ -291,6 +332,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>http://jolandepoel.github.io/tags/subjects/</loc>
       <lastmod>2017-06-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -303,6 +345,10 @@
     
       <loc>http://jolandepoel.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <priority>0</priority>
     </url>
     

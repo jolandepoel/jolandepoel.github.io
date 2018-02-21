@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jolande Poel</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://jolandepoel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Data Science Specialist training</title>
       <link>http://jolandepoel.github.io/post/ds-specialist/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
@@ -34,6 +35,8 @@ data(&amp;quot;iris&amp;quot;)library(tidyverse)## -- Attaching packages -----
     </item>
     
     <item>
+=======
+>>>>>>> parent of 892f710... Build site 2018-02-21
       <title>Academic: the website designer for Hugo</title>
       <link>http://jolandepoel.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
