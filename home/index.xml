@@ -7,13 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jolande Poel</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jolandepoel.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
       <title></title>
       <link>http://jolandepoel.github.io/home/about/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
@@ -28,45 +27,19 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jolandepoel.github.io/home/posts/</guid>
-=======
-      <title>Academic</title>
-      <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/publications_selected/</guid>
->>>>>>> parent of 892f710... Build site 2018-02-21
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Projects</title>
       <link>http://jolandepoel.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jolandepoel.github.io/home/projects/</guid>
-=======
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/publications/</guid>
->>>>>>> parent of 892f710... Build site 2018-02-21
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Data Science</title>
       <link>http://jolandepoel.github.io/home/data-science/</link>
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
@@ -81,33 +54,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jolandepoel.github.io/home/contact/</guid>
-=======
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/home/tags/</guid>
->>>>>>> parent of 892f710... Build site 2018-02-21
       <description></description>
     </item>
     

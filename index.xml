@@ -7,11 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jolande Poel</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-<<<<<<< HEAD
       <title>Data Science Specialist training</title>
       <link>http://jolandepoel.github.io/post/ds-specialist/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
@@ -100,8 +99,6 @@ library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
     </item>
     
     <item>
-=======
->>>>>>> parent of 892f710... Build site 2018-02-21
       <title>Example Talk</title>
       <link>http://jolandepoel.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
@@ -112,7 +109,6 @@ library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Deep Learning</title>
       <link>http://jolandepoel.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -140,8 +136,6 @@ library(tidyverse)&lt;/code&gt;&lt;/pre&gt;
     </item>
     
     <item>
-=======
->>>>>>> parent of 892f710... Build site 2018-02-21
       <title>Academic: the website designer for Hugo</title>
       <link>http://jolandepoel.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
