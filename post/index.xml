@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jolande Poel</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science Specialist training</title>
+      <link>/post/ds-specialist/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ds-specialist/</guid>
+      <description>Data Science Specialist course completeWith the help of ITvitae Learning in Amersfoort, I successfully completed my Data Science Specialist course. We started 16 January 2017 and finished on 3 June 2017. It’s now named Data Science Professional and the subjects have changed a bit. The subjects I had were:
+Introduction Statistics and Data Analysis taught by Wobbe ZijlstraProgramming in R taught by Wobbe Zijlstra and Hicham ZmarrouGraphical Analysis taught by Edwin de JongeStatistical Learning taught by Wobbe ZijlstraMachine Learning taught by Hicham ZmarrouText Analysis taught by Mark van der LooTime series and Trend Analysis taught by Jan van der LaanWorking with Big Data taught by Bas van ZelstIntroduction to Statistics and Data AnalysisIn this 6-day course spread over 3 weeks we learned the basics of statistics including mean, median, mode, ANOVA and basic graphs.</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>/post/my-first-post/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/my-first-post/</guid>
+      <description>Hi! My name is Jolande and I just succesfully made this site. Finally. After having a run-in with git submodules. Again.
+I wanted to try out some R code to see if this all works correctly:
+data(&amp;quot;iris&amp;quot;)library(tidyverse)## -- Attaching packages ----------------------------------------------- tidyverse 1.2.1 --## v ggplot2 2.2.1 v purrr 0.2.4## v tibble 1.4.2 v dplyr 0.7.4## v tidyr 0.8.0 v stringr 1.2.0## v readr 1.</description>
+    </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
